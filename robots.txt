@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: https://madeinsiberiaru.itsinsta.site/sitemap.xml
+Sitemap: https://blog.madein-siberia.ru/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
